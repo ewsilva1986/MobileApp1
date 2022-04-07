@@ -1,2 +1,1 @@
 # Ifpe-Sample-MobileApp
-MobileApp
